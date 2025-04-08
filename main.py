@@ -26,8 +26,7 @@ def hello() -> str:
     Returns:
         A string with the words 'Hello World!'.
     """
-    return " This is assignment 5 Of CC"
-
+    return " Assignment 05"
 
 if __name__ == "__main__":
     # This is used when running locally only. When deploying to Google App
